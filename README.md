@@ -15,9 +15,9 @@ To use this project, first clone the repo on your device using the commands belo
 `git clone https://github.com/dsklnr/CollegeAffordability.git`
 
 ### Contributor(s)    
-* [Ben Ogle]
-* [Logan Van Dine] 
-* [Jacqueline Vo]  
+* Ben Ogle
+* Logan Van Dine
+* Jacqueline Vo 
 
 **Company Name:** AffordableU Foundation  
 **Company Industry:** Non-Profit Education Assistance  
