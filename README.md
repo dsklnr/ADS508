@@ -1,5 +1,6 @@
-# Analyzing College Affordability using a Distributed Data Science Pipeline - MSADS508 
+# Analyzing College Affordability using a Distributed Data Science Pipeline 
 ## College Affordibility Classification 
+### MSADS - 508-01 Data Science with Cloud Computing
 
 <p align ="center">
 <img src = "/images/IMG_0037-ANIMATION.gif" width = "50%" height = "auto">
