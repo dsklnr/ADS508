@@ -1,10 +1,8 @@
 # Analyzing College Affordability using a Distributed Data Science Pipeline 
-## College Affordibility Classification 
-### MSADS - 508-01 Data Science with Cloud Computing
+## College Affordability Classification 
+### MSADS - 508 Data Science with Cloud Computing
 
-<p align ="center">
-<img src = "/images/IMG_0037-ANIMATION.gif" width = "50%" height = "auto">
-</p>
+--**Project Status: [Complete]**
 
 ### Installation
 
@@ -15,26 +13,33 @@ To use this project, first clone the repo on your device using the commands belo
 `git clone https://github.com/dsklnr/CollegeAffordability.git`
 
 ### Contributor(s)    
-* Ben Ogle
-* Logan Van Dine
-* Jacqueline Vo 
+
+* [Ben Ogle](https://github.com/dsklnr)
+* [Logan Van Dine](https://github.com/lvandine44)
+* [Jacqueline Vo](https://github.com/jvo024)
 
 **Company Name:** AffordableU Foundation  
 **Company Industry:** Non-Profit Education Assistance  
 **Company Size:** 11-50
 
 ### Methods  
-* Data Exploration
-* Data Visualization  
+* Data exploration
+* Data visualization  
 * Pre-processing    
-* Statistical modeling  
-* Data modeling metrics  
+* Machine learning modeling
+  * Logistic regression
+  * Random forest
+  * Extreme gradient boosting (XGBoost)
+* Data modeling metrics
+
 
 ### Technologies  
-* Python (AWS Sagemaker)  
-* SQL Transformations  
-* AWS (Sagemaker, Athena, S3)  
-* Powerpoint    
+* [Python](https://www.python.org/) Version 3.9+ 
+* Amazon Web Services
+  * [AWS Sagemaker](https://aws.amazon.com/sagemaker/)
+  * [Athena SQL](https://aws.amazon.com/athena/)
+  * [S3 Storage](https://aws.amazon.com/s3/)
+  
 
 ### Abstract 
 The future prospects and basic needs of students aspiring to pursue higher education are increasingly affected as college tuition costs have dramatically grown over recent years. This study aims to analyze the historical trends of college tuition costs to provide valuable insights and personalized guidance to high school students looking to enroll in college.
@@ -45,8 +50,8 @@ AffordableU Foundation is dedicated to providing the opportunity of a higher edu
 AffordableU Foundation is interested in increasing the number of people who hold college degrees because it will lead to a better future for society. Having a society of individuals with different backgrounds, who are skilled workers will mold a society that can provide citizens with a higher quality of life. Additionally, having a skilled workforce ultimately benefits employees, employers, and consumers.
 
 ### Goals 
-1. Predictive Analytics: Predict Universities that will have a high ROI for graduating high school seniors
-2. Prescriptive Analytics: Identify Universities that are deemed affordable
+1. Predictive analytics: Predict universities that will have a high ROI for graduating high school seniors
+2. Prescriptive analytics: Identify universities that are deemed affordable
 
 ### Non-Goals 
 While our aim remains to increase the number of high school graduates attending prestigious universities, it is not within the scope of this project to guarantee any outcomes to students nor any predicted statistics of top universities. Furthermore, there is no guarantee that the assisted student will be accepted into any university. Additionally, this project does not guarantee that the predicted tuition rate will be the definitive rate in the future as this project is not affiliated with any university enrollment committee being studied.
